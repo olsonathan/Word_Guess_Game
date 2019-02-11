@@ -1,6 +1,6 @@
      
 
-      var img = "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b0.png";
+      var img = "assets/images/b0.png";
       var guess = [];
       var letter;
       var hold = [];
@@ -15,17 +15,17 @@
 
         showImage();
 
-      var imgArray = ["C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b0.png",
-            "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b1.png",
-            "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b2.png",
-            "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b3.png",
-            "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b4.png",
-            "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b5.png",
-            "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b6.png",
-            "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b7.png",
-            "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b8.png",]
+      var imgArray = ["assets/images/b0.png",
+            "assets/images/b1.png",
+            "assets/images/b2.png",
+            "assets/images/b3.png",
+            "assets/images/b4.png",
+            "assets/images/b5.png",
+            "assets/images/b6.png",
+            "assets/images/b7.png",
+            "assets/images/b8.png",]
             
-        var winner = "C:/Users/Nathan/Documents/UM_Coding/Word_Guess_Game/assets/images/b9.png" 
+        var winner = "assets/images/b9.png" 
 
         alert("Make your guesses and when you think you have it type it into the guess box and see if you win")
 
